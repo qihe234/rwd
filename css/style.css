@@ -1,10 +1,14 @@
-@charset "utf-8";
-jb  {
-	background-color: #F1A7A8;
+.yzm .form-control {
+	border-top-right-radius: 0px;
+	border-bottom-right-radius: 0px;
 }
-list-group-item-secondary.border-bottom-0.py-2 {
-	text-shadow: 0px 0px #FFFFFF;
+.yzm .btn {
+	border-top-left-radius: 0px;
+	border-bottom-left-radius: 0px;
 }
-secondary {
-	text-shadow: 0px 0px #FFFFFF;
+.article .border-left {
+	border-left-width: 5px !important;
+}
+.grey-5 .list-group-item-secondary {
+	background-color: rgba(0,0,0,0.05);
 }
